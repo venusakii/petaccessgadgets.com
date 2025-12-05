@@ -24,9 +24,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "PetAccessGadgets" }],
   icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon.ico",
-    apple: "/favicon.ico",
+    icon: "/favicon.jpg",
+    shortcut: "/favicon.jpg",
+    apple: "/favicon.jpg",
   },
   openGraph: {
     title: "PetAccessGadgets - Smart Accessible Pet Care Technology",
