@@ -23,6 +23,11 @@ export const metadata: Metadata = {
     "disability-friendly",
   ],
   authors: [{ name: "PetAccessGadgets" }],
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
   openGraph: {
     title: "PetAccessGadgets - Smart Accessible Pet Care Technology",
     description: "Smart, sustainable gadgets for accessible pet care",
